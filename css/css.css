@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgba(247, 12, 12, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+div
+{
+ background-color: black;
+ color: rgb(250, 8, 8);
+ padding: 30px;
+ position: relative;
+ border-radius: 10px;
+ text-align:center;
+ font-size: 30px;
+
+}
+p
+{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    
+}
+.jonhnn
+{
+  background-color: rgb(255, 255, 255);
+  align-self: center;
+
+}
+.bah
+{
+    text-align: left;
+}
+.igreja
+{
+    background-color: white;
+}
