@@ -13,13 +13,23 @@ div
  border-radius: 10px;
  text-align:center;
  font-size: 30px;
+}
+.mathias a 
+{
+    text-decoration: none;
+    color: red;
 
+}
+.mathias a:hover
+{
+    color: rgb(21, 255, 0);
 }
 p
 {
-    text-align: center;
+    text-align: right;
     position: relative;
     top: 50px;
+    
     
 }
 .jonhnn
@@ -39,12 +49,17 @@ p
 }
 .renato
 {
-    background-color: rgb(252, 8, 8);
+    background-color: rgb(199, 166, 206);
     top: 50px;
 }
 
 #renatao {
     position: relative;
-    left: -500px;
+    left: -250px;
     
+}
+.haha
+{
+    margin: 10px  ;
+    background-color: antiquewhite;
 }
