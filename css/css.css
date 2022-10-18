@@ -1,15 +1,14 @@
 body
 {
-    background-color: rgba(247, 12, 12, 0);
+    background-color: rgba(2, 0, 0, 0);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     /* background-image: url(../img/downloa.jpg);
     background-size: cover;*/
-
 }
 div
 {
  background-color: black;
- color: rgb(250, 8, 8);
+ color: rgb(8, 242, 250);
  padding: 30px;
  position: relative;
  border-radius: 10px;
@@ -19,7 +18,7 @@ div
 .mathias a 
 {
     text-decoration: none;
-    color: red;
+    color: rgb(255, 0, 0);
 
 }
 .mathias a:hover
@@ -31,37 +30,13 @@ p
     text-align: right;
     position: relative;
     top: 50px;
-    
-    
 }
-.jonhnn
+.foda
 {
-  background-color: rgb(255, 255, 255);
-  align-self: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(2, 1, 0);
+    position:absolute;
+    top: 400px;
 
-}
-.bah
-{
-    text-align: left;
-}
-.igreja
-{
-    background-color: white;
-    color: black;
-}
-.renato
-{
-    background-color: rgb(199, 166, 206);
-    top: 50px;
-}
 
-#renatao {
-    position: relative;
-    left: -250px;
-    
-}
-.haha
-{
-    margin: 10px  ;
-    background-color: antiquewhite;
 }
