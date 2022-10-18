@@ -9,11 +9,11 @@ div
 {
  background-color: black;
  color: rgb(8, 242, 250);
- padding: 30px;
  position: relative;
- border-radius: 10px;
+ border-radius: 50px;
  text-align:center;
  font-size: 30px;
+ /*margin: 300px; usa pa diminuir ao centro*/
 }
 .mathias a 
 {
@@ -27,16 +27,30 @@ div
 }
 p
 {
-    text-align: right;
     position: relative;
     top: 50px;
 }
-.foda
-{
-    background-color: rgb(255, 255, 255);
-    color: rgb(2, 1, 0);
-    position:absolute;
-    top: 400px;
 
+.rodape{
+    color:rgb(2, 2, 2);
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    top: 400px;
+}
+.texto1
+{
+    color:rgb(7, 7, 7);
+    font-size: 20px;
+    background-color: rgb(253, 251, 251);
+    text-align: left;
+    
+    top: 200px;
+
+}
+.p1
+{
+    text-align: center;
+    color: black;
 
 }
