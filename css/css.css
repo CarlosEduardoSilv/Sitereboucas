@@ -1,6 +1,6 @@
 body
 {
-    background-color: rgba(2, 0, 0, 0);
+    background-color: rgba(10, 10, 10, 0);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     /* background-image: url(../img/downloa.jpg);
     background-size: cover;*/
@@ -40,12 +40,13 @@ p
 }
 .texto1
 {
-    color:rgb(7, 7, 7);
+    color:rgb(0, 3, 5);
     font-size: 20px;
     background-color: rgb(253, 251, 251);
     text-align: left;
     font-size: large;
-    top: 200px;
+    top: 180px;
+    padding: 20px;
 
 }
 .p1
@@ -53,4 +54,8 @@ p
     text-align: center;
     color: black;
     
+}
+img
+{
+    background-color: black;
 }
