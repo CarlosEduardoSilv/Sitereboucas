@@ -28,3 +28,9 @@ body
 {
     background-color: black;
 }
+h2
+{
+    color: rgb(21, 131, 228);
+    font-size: 60px;
+    padding:30px;
+}
