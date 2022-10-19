@@ -44,7 +44,7 @@ p
     font-size: 20px;
     background-color: rgb(253, 251, 251);
     text-align: left;
-    
+    font-size: large;
     top: 200px;
 
 }
@@ -52,5 +52,5 @@ p
 {
     text-align: center;
     color: black;
-
+    
 }
